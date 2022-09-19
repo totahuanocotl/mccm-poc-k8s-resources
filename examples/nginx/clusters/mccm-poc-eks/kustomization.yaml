@@ -1,0 +1,4 @@
+---
+namespace: mccm-poc-eks-nginx
+resources:
+- ../../base
