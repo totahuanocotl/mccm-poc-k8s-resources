@@ -3,4 +3,4 @@ kind: Namespace
 metadata: 
   name: my-eks-parent
   annotations:
-    configsync.gke.io/cluster-name-selector: mccm-poc-anthos-eks
+    configmanagement.gke.io/cluster-selector: eks-selector

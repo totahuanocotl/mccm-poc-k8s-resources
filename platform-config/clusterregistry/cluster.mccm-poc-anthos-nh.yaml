@@ -1,7 +1,7 @@
 kind: Cluster
 apiVersion: clusterregistry.k8s.io/v1alpha1
 metadata:
-  name: mccm-poc-anthos-eks
+  name: mccm-poc-anthos-nh
   labels:
     environment: dev
     cloud: aws
