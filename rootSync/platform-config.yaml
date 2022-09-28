@@ -6,9 +6,9 @@ metadata:
 spec:
   sourceFormat: unstructtured
   git:
-   repo: https://github.com/totahuanocotl/mccm-poc-k8s-resources.git
-     revision: HEAD
-     branch: main
-     dir: platform-config
-     auth: none
+    repo: https://github.com/totahuanocotl/mccm-poc-k8s-resources.git
+    revision: HEAD
+    branch: main
+    dir: platform-config
+    auth: none
      
