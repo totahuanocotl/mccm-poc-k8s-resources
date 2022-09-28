@@ -2,5 +2,3 @@ apiVersion: v1
 kind: Namespace
 metadata: 
   name: my-eks-parent
-  annotations:
-    configmanagement.gke.io/cluster-selector: eks-selector
