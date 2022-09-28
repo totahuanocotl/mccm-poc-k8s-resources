@@ -9,6 +9,6 @@ spec:
     repo: https://github.com/GoogleCloudPlatform/acm-policy-controller-library.git
     revision: HEAD
     branch: main
-    dir: bundles/policy-essentials-v2022
+    dir: bundles
     auth: none
      
