@@ -4,7 +4,7 @@ metadata:
   name: platform-config
   namespace: config-management-system
 spec:
-  sourceFormat: unstructtured
+  sourceFormat: unstructured
   git:
     repo: https://github.com/totahuanocotl/mccm-poc-k8s-resources.git
     revision: HEAD
