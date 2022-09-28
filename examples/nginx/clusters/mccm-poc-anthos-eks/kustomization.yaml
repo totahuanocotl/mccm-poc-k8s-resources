@@ -1,0 +1,4 @@
+---
+namespace: mccm-poc-anthos-nginx
+resources:
+- ../../base
